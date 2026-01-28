@@ -1,0 +1,10 @@
+FirstName,LastName,Department,TheoryScore,PracticalScore,Phone,Email
+dana,cohen,Sales,80,95,504789985,dana@example.com
+mira,LEVY,Support,60,65,541255987,mira@example.com
+dana,cohen,Sales,80,95,532145576,dana@example.com
+YOSSI,israeli,IT,92,88,532246987,y@example.com
+ALON,mizrachi,Sales,70,60,554712535,mi@example.com
+rachel,Green,Support,100,92,548422147,g@example.com
+tomer,shani,IT,50,55,583246597,s@example.com
+lior, ,Sales,85,90,527413695,li@example.com
+ ,levi,Support,70,80,547658742,l@example.com
