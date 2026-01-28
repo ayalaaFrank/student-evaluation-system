@@ -1,0 +1,12 @@
+# .NET / Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.exe
+*.dll
+
+# תוצרי ריצה – אל תעלי PDF-ים וקבצים שנוצרו
+Output/
